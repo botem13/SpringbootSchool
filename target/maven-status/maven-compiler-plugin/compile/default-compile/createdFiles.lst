@@ -1,0 +1,7 @@
+exception\GlobalExceptionHandler.class
+exception\ErrorDetails.class
+model\Mahasiswa.class
+respository\MahasiswaRepository.class
+example\Application.class
+Controller\MahasiswaController.class
+exception\ResourceNotFoundException.class
